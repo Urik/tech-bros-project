@@ -1,0 +1,11 @@
+{
+  "name": "tech-bros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Urik/tech-bros-project.git",
+  "author": "Uri Berman <uri.berman@getmaintainx.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^1.0.27"
+  }
+}

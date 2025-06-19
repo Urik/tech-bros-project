@@ -1,0 +1,11 @@
+node_modules
+bin
+lib
+.DS_Store
+vector_storage/
+.env
+.idea
+.vscode
+share/
+__pycache__/
+lol/
